@@ -1,5 +1,8 @@
 {
   "releases": {
+    "0.5": [
+      "[Fixed] Webhook signature validation."
+    ],
     "0.4": [
       "[Added] Added the changelog!",
     ]
