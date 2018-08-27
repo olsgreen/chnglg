@@ -1,5 +1,8 @@
 {
   "releases": {
+    "0.67": [
+      "[Improved] Releases are now tracked granularly."
+    ],
     "0.6": [
       "[Fixed] 🐛 Database errors and all sorts."
     ],
