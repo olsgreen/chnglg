@@ -1,5 +1,9 @@
 {
   "releases": {
+    "0.70": [
+      "[Removed] Breaking change to the API.",
+      "[Added] GraphQL API routes."
+    ],
     "0.65": [
       "[Improved] Releases are now tracked granularly."
     ],
