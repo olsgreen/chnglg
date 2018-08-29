@@ -1,5 +1,10 @@
 {
   "releases": {
+    "1.0": [
+      "[Added] Option to move repository to trash when removing from app - #2108. Thanks @say25!",
+      "[Fixed] Markdown header elements hard to read in dark mode - #5133. Thanks @agisilaos!",
+      "[Improved] Diff gutter elements should be considered button elements when interacting - #5158"
+    ],
     "0.9": [
       "[New] Prompt user to login when authentication error occurs - #903",
       "[New] Windows application has a new app menu, replaces previous hamburger menu - #991",
