@@ -1,5 +1,11 @@
 {
   "releases": {
+    "1.1": [
+      "[Fixed] Bugfix for background checks not being aware of missing repositories - #5282",
+      "[Fixed] Check the local state of a repository before performing Git operations - #5289",
+      "[Fixed] Switch to history view for default branch when deleting current branch during a compare - #5256",
+      "[Fixed] Handle missing .git directory inside a tracked repository - #5291"
+    ],
     "1.0": [
       "[Added] Option to move repository to trash when removing from app - #2108. Thanks @say25!",
       "[Fixed] Markdown header elements hard to read in dark mode - #5133. Thanks @agisilaos!",
