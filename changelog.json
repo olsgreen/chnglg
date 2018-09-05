@@ -1,7 +1,7 @@
 {
   "changes": {
     "1.2": [
-      "[Fixed] Testing",
+      "[Fixed] Testing"
     ],
     "1.1": [
       "[Fixed] Bugfix for background checks not being aware of missing repositories - #5282",
