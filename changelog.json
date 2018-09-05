@@ -1,5 +1,8 @@
 {
   "changes": {
+    "1.2": [
+      "[Fixed] Testing",
+    ],
     "1.1": [
       "[Fixed] Bugfix for background checks not being aware of missing repositories - #5282",
       "[Fixed] Check the local state of a repository before performing Git operations - #5289",
