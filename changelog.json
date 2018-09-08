@@ -1,5 +1,8 @@
 {
   "versions": {
+    "unreleased": [
+      "[Improved] Added support for 'unreleased' versions like this one! 👍"
+    ],
     "0.9": [
       "[New] Prompt user to login when authentication error occurs - #903",
       "[New] Windows application has a new app menu, replaces previous hamburger menu - #991",
