@@ -1,6 +1,7 @@
 {
   "versions": {
     "unreleased": [
+      "[Improved] Transormer architecture!",
       "[Improved] Added support for 'unreleased' versions like this one! 👍"
     ],
     "0.9": [
