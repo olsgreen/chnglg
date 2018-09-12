@@ -1,7 +1,8 @@
 {
   "versions": {
     "unreleased": [
-      "[Improved] Transormer architecture!",
+      "[Improved] Added VCS file download method.",
+      "[Improved] Transformer architecture!",
       "[Improved] Added support for 'unreleased' versions like this one! 👍"
     ],
     "0.9": [
