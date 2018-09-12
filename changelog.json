@@ -3,7 +3,8 @@
     "unreleased": [
       "[Improved] Added VCS file download method.",
       "[Improved] Transformer architecture!",
-      "[Improved] Added support for 'unreleased' versions like this one! 👍"
+      "[Improved] Added support for 'unreleased' versions like this one! 👍",
+      "[Removed] Another unlreased change."
     ],
     "0.9": [
       "[New] Prompt user to login when authentication error occurs - #903",
