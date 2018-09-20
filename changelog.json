@@ -7,7 +7,7 @@
       "[Removed] Another unlreased change. 🐛🛀",
       "[Fixed] Standardized parsed project, version & change responses 🍒🍉🍌🍐"
     ],
-    "0.9": [
+    "0.9": {
       "published_at": "2018-01-01",
       "changes": [
         "[New] Prompt user to login when authentication error occurs - #903",
@@ -23,7 +23,7 @@
         "[Fixed] Diffs wouldn't work if an external diff program was configured - #1123",
         "[Improved] Lots of design polish work - #1113, #1099, #1094, #1077"
       ]
-    ],
+    },
     "0.8": [
       "[New] Notification displayed in History tab when the base branch moves ahead of the current branch - #4768",
       "[New] Repository list displays uncommitted changes indicator and ahead/behind information - #2259 #5095",
